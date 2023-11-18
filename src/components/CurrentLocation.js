@@ -40,6 +40,7 @@ function CurrentLocation() {
             <h2>User Location</h2>
             <p>Latitude: {userLocation.latitude}</p>
             <p>Longitude: {userLocation.longitude}</p>
+            <h1>Geeta</h1>
           </div>
         )}
         </div>
